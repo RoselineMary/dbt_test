@@ -1,0 +1,10 @@
+product_id,product_name,product_type,unit_price,min_order_qty
+1,banana,fruit,0.25,12
+2,peach,fruit,1.50,8
+3,egg,dairy,0.20,12
+4,pineapple,fruit,4.25,3
+5,cucumber,vegetable,0.75,6
+6,cherry,fruit,5.25,1
+7,brussel sprouts,vegetable,2.25,2
+8,spinach,greens,2.75,2
+9,cashew,nuts,0.25,12

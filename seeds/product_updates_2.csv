@@ -1,0 +1,4 @@
+product_id,product_name,product_type,unit_price,unit_of_measure,min_order_qty
+1,banana,fruit,0.25,each,12
+2,peach,fruit,1.50,each,8
+3,egg,dairy,4.20,dozen,1

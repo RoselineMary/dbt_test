@@ -1,3 +1,10 @@
+{{config (
+    materialized = "table"
+)
+}}
+
+
+
 with orders as (
     select 
     id as order_id,
