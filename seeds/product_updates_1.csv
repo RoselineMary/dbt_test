@@ -1,0 +1,5 @@
+product_id,product_name,product_type,unit_price,min_order_qty
+1,banana,fruit,0.33,12
+2,peach,fruit,0.85,8
+9,cashew,nuts,4.50,12
+10,eggplant,vegetable,1.99,1

@@ -7,7 +7,7 @@
     Try changing "table" to "view" below
 */
 
-{{ config(materialized='table') }}
+{{ config(materialized='view') }}
 
 with source_data as (
 
@@ -17,8 +17,7 @@ with source_data as (
 
 )
 
-select *
-from source_data
+select * from source_data where id is not null
 
 /*
     Uncomment the line below to remove records with null `id` values

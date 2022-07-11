@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: mock_orders_new
+    database: pc_dbt_db
+    schema: amorton_snapshot
+    tables:
+      - name: order_check
